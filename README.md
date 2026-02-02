@@ -1,16 +1,76 @@
-# React + Vite
+# Supraj Reddy — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**AI/ML Enthusiast • Cloud Explorer • Full Stack Developer**
 
-Currently, two official plugins are available:
+Live: https://supraj-portfolio.vercel.app/  
+GitHub: https://github.com/SuprajReddy15  
+LinkedIn: https://www.linkedin.com/in/thamadapally-supraj-reddy-b5356b370/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Computer Science Engineering (AI) student at KL University (CGPA: 9.1).  
+Interested in AI/ML, cloud-native systems, and modern web development.  
+I enjoy building practical projects and contributing to real-world solutions.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- Languages: Python, JavaScript, SQL, C  
+- Frontend: React, Tailwind CSS, Vite  
+- Backend: Django, Flask  
+- Databases: MySQL, PostgreSQL  
+- Cloud: AWS  
+- Libraries: NumPy, Pandas, OpenCV, Matplotlib
+
+---
+
+## Projects
+
+**Vehicle Classification System**  
+AI model to classify vehicles from images and video streams.  
+Tech: Python, OpenCV, ML
+
+**Student Registration System**  
+Full-stack student management system with authentication and database integration.  
+Tech: Django, SQLite, HTML/CSS
+
+**Movielite**  
+Movie browsing app using TMDB API with Firebase authentication.  
+Tech: React, Tailwind, Firebase, API
+
+**Resume Insight Analyzer**  
+AI tool using a local LLM (Ollama) to analyze resumes and provide insights.  
+Tech: Python, Flask, Ollama
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner  
+- Red Hat Certified System Administrator  
+- Salesforce Certified AI Associate  
+
+---
+
+## Run Locally
+
+git clone https://github.com/SuprajReddy15/supraj-portfolio.git  
+cd supraj-portfolio  
+npm install  
+npm run dev
+
+---
+
+## Deployment
+
+Deployed on Vercel.  
+Each push to the main branch triggers automatic deployment.
+
+---
+
+## Contact
+
+2200030590cseh@gmail.com
